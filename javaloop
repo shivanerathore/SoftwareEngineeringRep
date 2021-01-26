@@ -1,0 +1,14 @@
+public class ForLoops {
+    public static void main (String [] args) {
+      int firstNumber;
+      int i;
+
+      firstNumber = 3;
+
+      i = firstNumber;   
+
+      for (i = 3; i <= 1; --i) {
+         System.out.println(i);
+     }
+   }
+}
